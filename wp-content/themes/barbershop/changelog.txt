@@ -1,0 +1,41 @@
+Version 1.0
+	Release
+
+Version 1.1
+	+ VC Frontend editor compatibility improved.
+	+ WordPress Customizer compatibility improved.
+	+ Tribe Events compatibility improved.
+	+ Extra column is added in categories, posts and pages list, where changed (overriden) theme options are displayed.
+
+Version 1.2
+	+ Added button "make an appoinment" on the front page
+	+ Submenu icon plus is added
+	+ Added button "make an appoinment" on shortcode "team"
+
+Version 1.4
+    + Address map marker fixed
+
+Version 1.5
+	+ VC content duplication fixed
+	+ VC plugin update
+	+ Revolution Slider plugin update
+    + Instagram plugin update
+
+Version 1.6
+    + Theme Options fixed
+
+Version 1.7
+    + VC plugin update
+
+Version 1.8
+    + VC plugin update
+    + Responsive version fixed
+    + Wp booking calendar plugin update
+
+Version 1.9
+    + VC plugin update
+    + Essential Grid fixed
+
+Version 2.0
+      + Plugins included into the theme are updated to their latest versions
+      + Wordpress 4.5 ready

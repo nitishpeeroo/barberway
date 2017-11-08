@@ -1,0 +1,48 @@
+2017-11-07T17:09:06+00:00 CRITICAL Uncaught Error: Call to undefined function card_url() in /home/xatheogmail/public_html/wp-content/themes/barbershop/header.php:107
+Stack trace:
+#0 /home/xatheogmail/public_html/wp-includes/template.php(684): require_once()
+#1 /home/xatheogmail/public_html/wp-includes/template.php(643): load_template('/home/xatheogma...', true)
+#2 /home/xatheogmail/public_html/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home/xatheogmail/public_html/wp-content/plugins/woocommerce/templates/single-product.php(23): get_header('shop')
+#4 /home/xatheogmail/public_html/wp-includes/template-loader.php(74): include('/home/xatheogma...')
+#5 /home/xatheogmail/public_html/wp-blog-header.php(19): require_once('/home/xatheogma...')
+#6 /home/xatheogmail/public_html/index.php(17): require('/home/xatheogma...')
+#7 {main}
+  thrown
+
+2017-11-07T17:09:10+00:00 CRITICAL Uncaught Error: Call to undefined function card_url() in /home/xatheogmail/public_html/wp-content/themes/barbershop/header.php:107
+Stack trace:
+#0 /home/xatheogmail/public_html/wp-includes/template.php(684): require_once()
+#1 /home/xatheogmail/public_html/wp-includes/template.php(643): load_template('/home/xatheogma...', true)
+#2 /home/xatheogmail/public_html/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home/xatheogmail/public_html/wp-content/plugins/woocommerce/templates/single-product.php(23): get_header('shop')
+#4 /home/xatheogmail/public_html/wp-includes/template-loader.php(74): include('/home/xatheogma...')
+#5 /home/xatheogmail/public_html/wp-blog-header.php(19): require_once('/home/xatheogma...')
+#6 /home/xatheogmail/public_html/index.php(17): require('/home/xatheogma...')
+#7 {main}
+  thrown
+
+2017-11-07T17:09:25+00:00 CRITICAL Uncaught Error: Call to undefined function card_url() in /home/xatheogmail/public_html/wp-content/themes/barbershop/header.php:107
+Stack trace:
+#0 /home/xatheogmail/public_html/wp-includes/template.php(684): require_once()
+#1 /home/xatheogmail/public_html/wp-includes/template.php(643): load_template('/home/xatheogma...', true)
+#2 /home/xatheogmail/public_html/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home/xatheogmail/public_html/wp-content/plugins/woocommerce/templates/single-product.php(23): get_header('shop')
+#4 /home/xatheogmail/public_html/wp-includes/template-loader.php(74): include('/home/xatheogma...')
+#5 /home/xatheogmail/public_html/wp-blog-header.php(19): require_once('/home/xatheogma...')
+#6 /home/xatheogmail/public_html/index.php(17): require('/home/xatheogma...')
+#7 {main}
+  thrown
+
+2017-11-07T17:09:37+00:00 CRITICAL Uncaught Error: Call to undefined function card_url() in /home/xatheogmail/public_html/wp-content/themes/barbershop/header.php:107
+Stack trace:
+#0 /home/xatheogmail/public_html/wp-includes/template.php(684): require_once()
+#1 /home/xatheogmail/public_html/wp-includes/template.php(643): load_template('/home/xatheogma...', true)
+#2 /home/xatheogmail/public_html/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home/xatheogmail/public_html/wp-content/plugins/woocommerce/templates/single-product.php(23): get_header('shop')
+#4 /home/xatheogmail/public_html/wp-includes/template-loader.php(74): include('/home/xatheogma...')
+#5 /home/xatheogmail/public_html/wp-blog-header.php(19): require_once('/home/xatheogma...')
+#6 /home/xatheogmail/public_html/index.php(17): require('/home/xatheogma...')
+#7 {main}
+  thrown
+

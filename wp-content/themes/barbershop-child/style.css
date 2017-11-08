@@ -1,0 +1,19 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Barbershop Child
+ Theme URI:    http://barber.axiomthemes.com/
+ Description:  Barber - Fully Responsive and Mobile Friendly theme
+ Author:       AxiomThemes
+ Author URI:   http://axiomthemes.com
+ Template:     barbershop
+ Version:      1.6
+ Tags:         light, inheritable theme-options
+ Text Domain:  axiom
+*/
+
+
+@import url("../barbershop/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
